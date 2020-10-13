@@ -31,3 +31,6 @@ print(sum)
 print("hello world")
 print(sum)
 print("G")
+print("My world")
+
+print("hello")
