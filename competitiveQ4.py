@@ -63,4 +63,3 @@ for i in range(1, n):
     for j in range(smallest, largest + 1): 
         result = min(result, array[n - 1][j]) 
   
-print(result)  
